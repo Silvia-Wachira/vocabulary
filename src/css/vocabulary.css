@@ -406,6 +406,31 @@ main h3 {
     text-transform: none;
 }
 
+main h4 {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    /* font-size: ; */
+    text-transform: none;
+}
+
+main h5 {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    /* font-size: ; */
+    text-transform: none;
+}
+
+main h6 {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    /* font-size: ; */
+    text-transform: none;
+}
+
+
 main aside.opening {
     display: inline-block;
     box-sizing: border-box;
